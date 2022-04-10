@@ -13,6 +13,7 @@
 		87D782D12802840100021D9E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87D782CF2802840100021D9E /* Main.storyboard */; };
 		87D782D32802840200021D9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87D782D22802840200021D9E /* Assets.xcassets */; };
 		87D782D62802840200021D9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87D782D42802840200021D9E /* LaunchScreen.storyboard */; };
+		87D782DE28028C0F00021D9E /* HalfModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D782DD28028C0F00021D9E /* HalfModalViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		87D782D22802840200021D9E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		87D782D52802840200021D9E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		87D782D72802840200021D9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87D782DD28028C0F00021D9E /* HalfModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HalfModalViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				87D782D22802840200021D9E /* Assets.xcassets */,
 				87D782D42802840200021D9E /* LaunchScreen.storyboard */,
 				87D782D72802840200021D9E /* Info.plist */,
+				87D782DD28028C0F00021D9E /* HalfModalViewController.swift */,
 			);
 			path = "MiniApp44-harfModal";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				87D782CE2802840100021D9E /* ViewController.swift in Sources */,
 				87D782CA2802840100021D9E /* AppDelegate.swift in Sources */,
 				87D782CC2802840100021D9E /* SceneDelegate.swift in Sources */,
+				87D782DE28028C0F00021D9E /* HalfModalViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
